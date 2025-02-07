@@ -43,7 +43,7 @@ React, Axios, SCSS
 
 ---
 
-### 3. [Workout Project в работе](https://github.com/Victoria8124/workout-project.git)  
+### 3. [Workout Project "в работе"](https://github.com/Victoria8124/workout-project.git)  
 - **Описание:**  
   Разработка спортивного приложения для тренировки навыков работы с REST API и Axios.  
 
