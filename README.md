@@ -26,7 +26,7 @@
 **Технологии:**  
 React, Axios, SCSS  
 
-### 2. [Тестовое задание](https://github.com/Victoria8124/Seminars.git)  
+### 2. [проект над которыми работала](https://github.com/Victoria8124/Seminars.git)  
 - **Описание:**  
   Создание приложения для отображения, редактирования и удаления списка семинаров с использованием React и локального сервера (`json-server`).  
 
@@ -43,7 +43,7 @@ React, Axios, SCSS
 
 ---
 
-### 3. [Workout Project](https://github.com/Victoria8124/workout-project.git)  
+### 3. [Workout Project в работе](https://github.com/Victoria8124/workout-project.git)  
 - **Описание:**  
   Разработка спортивного приложения для тренировки навыков работы с REST API и Axios.  
 
