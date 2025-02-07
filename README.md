@@ -26,7 +26,7 @@
 **Технологии:**  
 React, Axios, SCSS  
 
-### 2. [Проект над которым работала](https://github.com/Victoria8124/Seminars.git)  
+### 2. [SeminarPortal ](https://github.com/Victoria8124/Seminars.git)  
 - **Описание:**  
   Создание приложения для отображения, редактирования и удаления списка семинаров с использованием React и локального сервера (`json-server`).  
 
